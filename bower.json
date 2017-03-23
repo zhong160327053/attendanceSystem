@@ -1,0 +1,23 @@
+{
+  "name": "attendance",
+  "description": "考勤",
+  "main": "app.js",
+  "authors": [
+    "苏培煌 吴威 张帅 钟伊妮"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.0",
+    "angular": "1.6.3"
+  }
+}

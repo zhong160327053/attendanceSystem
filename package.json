@@ -1,0 +1,15 @@
+{
+  "name": "attendance",
+  "version": "1.0.0",
+  "description": "考勤",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "苏培煌 吴威 张帅 钟伊妮",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "gulp": "^3.9.1"
+  }
+}
